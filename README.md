@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate back-end developer from Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelommr&label=Profile%20views&color=0e75b6&style=flat" alt="marcelommr" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=marcelommr&label=Profile%20views&color=0e75b6&style=flat" alt="marcelommr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelommr" alt="marcelommr" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=marcelommr" alt="marcelommr" /> </p>
 
-- 🔭 I’m currently working on [https://github.com/pagseguro](PagSeguroCompany)
+- 🔭 I’m currently working on: <a href="https://github.com/pagseguro">PagSeguro Bank</a>
 
-- 💬 Ask me about **JAVA, Kafka, OpenAI, PHP, React**
+- 💬 Ask me about **JAVA, Kafka, OpenAI, New Relic, PHP, React**
 
 <p align="left">
 </p>
